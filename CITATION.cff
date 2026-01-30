@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EnPO Meridianin Optimization (Synthetic Benchmark)"
+type: software
+authors:
+  - given-names: "Mohanad"
+    family-names: "Deif"
+version: 0.1.0
+license: MIT

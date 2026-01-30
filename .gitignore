@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Outputs / data
+outputs/*
+!outputs/.gitkeep
+data/*.csv
+data/*.parquet
+data/*.npy
+
+# OS
+.DS_Store
+Thumbs.db
