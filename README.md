@@ -1,4 +1,4 @@
-# EnPO Meridianin Optimization (Synthetic Benchmark)
+# EnPO Meridianin Optimization
 
 This repository provides a clean, reproducible implementation of:
 - **Enhanced Parrot Optimization (EnPO)** for continuous search spaces
